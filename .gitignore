@@ -1,0 +1,7 @@
+# Regenerable render output
+blender/frames/
+blender/previews/
+blender/*.mp4
+blender/*.png
+*.blend1
+__pycache__/
